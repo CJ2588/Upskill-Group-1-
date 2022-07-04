@@ -4,3 +4,8 @@
 <p>This Is an Interesting Project about Space Tourism </p>
 
 # Upskill-Group-1-Members
+
+- Arnold (Team Lead)
+- Ebube
+- Chijioke
+- Elvis
